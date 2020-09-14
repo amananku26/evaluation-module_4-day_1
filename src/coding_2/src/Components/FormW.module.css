@@ -1,0 +1,66 @@
+.parent{
+      border: 2px solid red;
+      text-align: center;
+      padding: 8px;
+      background: #FFAFBD;  /* fallback for old browsers */
+      background: -webkit-linear-gradient(to right, #ffc3a0, #FFAFBD);  /* Chrome 10-25, Safari 5.1-6 */
+      background: linear-gradient(to right, #ffc3a0, #FFAFBD); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.table{
+   float: left;
+   font-size: 15px;
+   display: flex;
+   text-align: center;
+   border: 2px solid rgb(15, 255, 107);
+   padding: 15px;
+}
+/* .ter{
+   font-size: 55px;
+} */
+.input{
+    text-align: center;
+    margin-left: 18px;
+    margin-top: 18px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 3px solid rgb(160, 255, 247);
+}
+.ter{
+  margin-top: 55px;
+}
+.btn{
+  padding: 10px;
+  width:155px;
+  border-radius: 25px;
+  margin-left: 18px;
+  margin-bottom: 18px;
+  margin-top: 18px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  font-size: 15px;
+  background: #ff6e7f;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #bfe9ff, #ff6e7f);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #bfe9ff, #ff6e7f); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  border-bottom: 2px dashed rgb(255, 230, 0);
+}
+
+.td{
+  margin-left: 55px;
+  color: blue;
+}
+.left{
+  text-align: center;
+  margin-left: 18px;
+  margin-top: 18px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  margin-left:25px;
+  border-bottom: 3px solid rgb(160, 255, 247);
+}
+.ter{
+margin-top: 55px;
+}
